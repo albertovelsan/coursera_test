@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #dede49;
+    background-color: #6290f5;
 }
 
 .navbar-collapse {
@@ -44,7 +44,7 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #6290f5;
 }
 
 #nav-list a {
@@ -56,11 +56,11 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: #6290f5;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #0f0302;
 }
 
 
