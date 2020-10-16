@@ -1,15 +1,15 @@
 body {
     font-size: 16px;
-    font-family: 'Source Sans Pro', sans-serif;
-    color: #1a1a1a;
-    background-color: #599e4b;
+    font-family: 'Roboto', sans-serif;
+    color: #030303;
+    background-color: #d5db58;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #1682c9;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #cfcf6d;
 }
 
 .navbar-collapse {
@@ -34,9 +34,9 @@ body {
 
 .navbar-brand h1 {
     color: #7d1913;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Roboto', cursive;
     font-weight: bolder;
-    font-size: 1.8em;
+    font-size: 1.6em;
 }
 
 .navbar-brand a:hover {
