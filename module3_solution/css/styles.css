@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     color: #030303;
-    background-color: #d5db58;
+    background-color: #b7cced;
 }
 
 
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #cfcf6d;
+    background-color: #dede49;
 }
 
 .navbar-collapse {
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #ffffff;
     font-family: 'Roboto', cursive;
     font-weight: bolder;
     font-size: 1.6em;
@@ -41,7 +41,6 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
 }
 
 #nav-list {
@@ -76,7 +75,7 @@ body {
 }
 
 #main-content h2 {
-    font-size: 2.9em;
+    font-size: 2.6em;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 50px;
@@ -91,9 +90,8 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #ebc16e;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
 }
 
 
